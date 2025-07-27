@@ -22,7 +22,7 @@ This is a full-stack playlist management application with:
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started 
 
 ### 1. Clone the repository
 
