@@ -8,7 +8,7 @@ function Home() {
   useEffect(() => {
     async function fetchPlaylists() {
       try {
-        const response = await fetch('https://l9kvphvd0a.execute-api.us-east-1.amazonaws.com/readPlaylist');
+        const response = await fetch('https://qdwxphfqt6.execute-api.us-east-1.amazonaws.com/readPlaylist');
         const playlistNames = await response.json();
         setPlaylists(playlistNames);
       } catch (error) {

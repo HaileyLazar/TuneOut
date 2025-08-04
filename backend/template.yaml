@@ -99,4 +99,4 @@ Resources:
 Outputs:
   ApiUrl:
     Description: "HTTP API endpoint base URL"
-    Value: !Sub "https://${PlaylistAPI}.execute-api.${AWS::Region}.amazonaws.com"
+    Value: !Sub "https://qdwxphfqt6.execute-api.us-east-1.amazonaws.com"
